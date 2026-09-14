@@ -1,7 +1,7 @@
 # comp-graph-laba1
 variant 2
 ## Запуск
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-python laba1.py
+1. python -m venv .venv
+2. .venv\Scripts\Activate.ps1
+3. pip install -r requirements.txt
+4. python laba1.py
