@@ -1,2 +1,7 @@
 # comp-graph-laba1
-lab for university (ignore)
+variant 2
+## Запуск
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+python laba1.py
